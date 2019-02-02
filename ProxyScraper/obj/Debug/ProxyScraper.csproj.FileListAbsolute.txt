@@ -1,0 +1,9 @@
+c:\users\administrator\documents\visual studio 2013\Projects\ProxyScraper\ProxyScraper\bin\Debug\ProxyScraper.exe.config
+c:\users\administrator\documents\visual studio 2013\Projects\ProxyScraper\ProxyScraper\bin\Debug\ProxyScraper.exe
+c:\users\administrator\documents\visual studio 2013\Projects\ProxyScraper\ProxyScraper\bin\Debug\ProxyScraper.pdb
+c:\users\administrator\documents\visual studio 2013\Projects\ProxyScraper\ProxyScraper\obj\Debug\ProxyScraper.csprojResolveAssemblyReference.cache
+c:\users\administrator\documents\visual studio 2013\Projects\ProxyScraper\ProxyScraper\obj\Debug\ProxyScraper.Form1.resources
+c:\users\administrator\documents\visual studio 2013\Projects\ProxyScraper\ProxyScraper\obj\Debug\ProxyScraper.Properties.Resources.resources
+c:\users\administrator\documents\visual studio 2013\Projects\ProxyScraper\ProxyScraper\obj\Debug\ProxyScraper.csproj.GenerateResource.Cache
+c:\users\administrator\documents\visual studio 2013\Projects\ProxyScraper\ProxyScraper\obj\Debug\ProxyScraper.exe
+c:\users\administrator\documents\visual studio 2013\Projects\ProxyScraper\ProxyScraper\obj\Debug\ProxyScraper.pdb
