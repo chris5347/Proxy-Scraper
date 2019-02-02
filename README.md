@@ -8,5 +8,5 @@ This program is designed to gather over 5,000 public http/https proxies from pop
 * Double click on ProxyScraper.exe
 * To gather proxies, simply click "Scrape HTTP/HTTPs"
 ## Future Development 
-* Gather porxies from more sites
+* Gather proxies from more sites
 * Specify proxies such as anonymous or password protected
